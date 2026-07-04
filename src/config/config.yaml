@@ -8,7 +8,7 @@ infer_model_dir: /home/pi/raingauge/model/
 record_hours: 168
 sample_duration_sec: 10
 file_format: "wav"
-resolution: "S32"
+resolution: "S16_LE"
 sampling_rate: "8000"
 # model
 stft_shape: [None, 1, 1025, 2672]
@@ -17,7 +17,7 @@ infer_model_name: seq_stft_enc3.hdf5
 seq_len: 1368000
 # davis
 davis_log_filename: davis_label.csv
-davis_interrupt_pin: 13
+davis_interrupt_pin: 17
 davis_log_interval_sec: 180
 # battery monitoring
 uart_port: /dev/ttyS0
@@ -25,9 +25,9 @@ baudrate: 9600
 # general
 device_name: rainpi_test
 device_location: greenfield tvm
-field_deployed: false
+field_deployed: true
 communication: LORAWAN # LORAWAN or WIFI
 DB_writing_interval_min: 1 # use multiples of 3 only
 lora_led_pin: 25
-min_threshold: 0.6
+min_threshold: 0.0
 moisture_threshold: 16000

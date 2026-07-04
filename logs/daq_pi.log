@@ -1,0 +1,323 @@
+nohup: ignoring input
+/home/pi/raingauge/src/davis_raingauge.py:14: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(interrupt_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1782384546.624091   21508 cpu_allocator_impl.cc:82] Allocation of 694520320 exceeds 10% of free system memory.
+[f2c] (1782384548) Thu Jun 25 16:19:08 2026
+
+3887: freq=865062500
+3917: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 3
+W0000 00:00:1782384732.853234   21511 cpu_allocator_impl.cc:82] Allocation of 694520320 exceeds 10% of free system memory.
+[1e77] (1782384734) Thu Jun 25 16:22:14 2026
+
+7802: freq=865062500
+7833: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 3
+W0000 00:00:1782384919.230465   21511 cpu_allocator_impl.cc:82] Allocation of 694520320 exceeds 10% of free system memory.
+[3c05] (1782384921) Thu Jun 25 16:25:21 2026
+
+15369: freq=865062500
+15400: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 4
+Recording sample number 1 on 2026-06-25 16:16:00.497633
+Recording sample number 2 on 2026-06-25 16:16:10.686559
+Recording sample number 3 on 2026-06-25 16:16:20.697029
+Recording sample number 4 on 2026-06-25 16:16:30.705283
+Recording sample number 5 on 2026-06-25 16:16:40.716892
+Recording sample number 6 on 2026-06-25 16:16:50.725530
+Recording sample number 7 on 2026-06-25 16:17:00.732706
+Recording sample number 8 on 2026-06-25 16:17:10.742884
+Recording sample number 9 on 2026-06-25 16:17:20.750748
+Recording sample number 10 on 2026-06-25 16:17:30.759729
+Recording sample number 11 on 2026-06-25 16:17:40.770405
+Recording sample number 12 on 2026-06-25 16:17:50.781810
+Recording sample number 13 on 2026-06-25 16:18:00.790580
+Recording sample number 14 on 2026-06-25 16:18:10.801596
+Recording sample number 15 on 2026-06-25 16:18:20.811328
+Recording sample number 16 on 2026-06-25 16:18:30.820998
+Recording sample number 17 on 2026-06-25 16:18:40.831559
+Recording sample number 18 on 2026-06-25 16:18:50.839999
+Estimated rainfall:  0.714869
+Davis Rain: 0.0
+Deleted: /home/pi/raingauge/data/2026_06_25_15_45_06_239115.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_16_20_697029.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_18_00_790580.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_44_06_185620.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_44_16_197063.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_16_10_686559.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_18_40_831559.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_17_10_742884.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_18_10_801596.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_16_30_705283.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_44_46_223079.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_44_36_213964.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_16_40_716892.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_17_30_759729.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_45_16_247008.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_18_20_811328.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_18_30_820998.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_17_50_781810.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_43_46_168108.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_18_50_839999.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_16_00_497633.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_17_20_750748.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_17_40_770405.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_16_50_725530.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_44_26_206482.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_44_56_230832.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_43_56_175119.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_17_00_732706.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_15_43_35_983251.wav
+COUNT BEFORE RESET = 0
+Recording sample number 19 on 2026-06-25 16:19:11.800550
+Recording sample number 20 on 2026-06-25 16:19:21.988244
+Recording sample number 21 on 2026-06-25 16:19:31.997420
+Recording sample number 22 on 2026-06-25 16:19:42.008369
+Recording sample number 23 on 2026-06-25 16:19:52.020080
+Recording sample number 24 on 2026-06-25 16:20:02.029358
+Recording sample number 25 on 2026-06-25 16:20:12.038630
+Recording sample number 26 on 2026-06-25 16:20:22.047073
+Recording sample number 27 on 2026-06-25 16:20:32.058114
+Recording sample number 28 on 2026-06-25 16:20:42.069707
+Recording sample number 29 on 2026-06-25 16:20:52.080814
+Recording sample number 30 on 2026-06-25 16:21:02.090265
+Recording sample number 31 on 2026-06-25 16:21:12.100191
+Recording sample number 32 on 2026-06-25 16:21:22.107985
+Recording sample number 33 on 2026-06-25 16:21:32.119523
+Recording sample number 34 on 2026-06-25 16:21:42.130616
+Recording sample number 35 on 2026-06-25 16:21:52.139109
+Recording sample number 36 on 2026-06-25 16:22:02.148607
+Estimated rainfall:  0.72104967
+Davis Rain: 0.2
+Deleted: /home/pi/raingauge/data/2026_06_25_16_21_12_100191.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_20_42_069707.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_21_42_130616.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_20_22_047073.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_19_31_997420.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_20_12_038630.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_19_52_020080.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_19_42_008369.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_22_02_148607.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_20_32_058114.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_19_21_988244.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_21_22_107985.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_19_11_800550.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_21_02_090265.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_20_02_029358.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_21_32_119523.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_21_52_139109.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_20_52_080814.wav
+COUNT BEFORE RESET = 0
+Recording sample number 37 on 2026-06-25 16:22:18.014142
+Recording sample number 38 on 2026-06-25 16:22:28.203946
+Recording sample number 39 on 2026-06-25 16:22:38.214339
+Recording sample number 40 on 2026-06-25 16:22:48.225454
+Recording sample number 41 on 2026-06-25 16:22:58.238011
+Recording sample number 42 on 2026-06-25 16:23:08.247188
+Recording sample number 43 on 2026-06-25 16:23:18.257665
+Recording sample number 44 on 2026-06-25 16:23:28.266104
+Recording sample number 45 on 2026-06-25 16:23:38.276033
+Recording sample number 46 on 2026-06-25 16:23:48.284617
+Recording sample number 47 on 2026-06-25 16:23:58.295056
+Recording sample number 48 on 2026-06-25 16:24:08.307355
+Recording sample number 49 on 2026-06-25 16:24:18.317678
+Recording sample number 50 on 2026-06-25 16:24:28.327987
+Recording sample number 51 on 2026-06-25 16:24:38.330830
+Recording sample number 52 on 2026-06-25 16:24:48.361938
+Recording sample number 53 on 2026-06-25 16:24:58.546185
+Recording sample number 54 on 2026-06-25 16:25:08.558191
+Estimated rainfall:  -0.0844328
+Davis Rain: 0.2
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_48_173484.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_08_365437.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_08_558191.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_22_48_225454.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_22_18_014142.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_23_38_276033.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_28_327987.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_18_380839.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_23_08_247188.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_58_355231.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_08_307355.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_23_58_295056.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_22_38_214339.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_38_330830.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_23_18_257665.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_23_48_284617.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_18_317678.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_22_58_238011.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_48_361938.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_22_28_203946.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_24_58_546185.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_23_28_266104.wav
+COUNT BEFORE RESET = 0
+Recording sample number 55 on 2026-06-25 16:25:26.012856
+Recording sample number 56 on 2026-06-25 16:25:36.168741
+Recording sample number 57 on 2026-06-25 16:25:46.315807
+Recording sample number 58 on 2026-06-25 16:25:56.472554
+Recording sample number 59 on 2026-06-25 16:26:06.627081
+Recording sample number 60 on 2026-06-25 16:26:16.691959
+Recording sample number 61 on 2026-06-25 16:26:26.846808
+Recording sample number 62 on 2026-06-25 16:26:36.911685
+W0000 00:00:1782385108.174791   21511 cpu_allocator_impl.cc:82] Allocation of 694520320 exceeds 10% of free system memory.
+[3934] (1782385110) Thu Jun 25 16:28:30 2026
+
+14647: freq=865062500
+14677: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 4
+W0000 00:00:1782385295.516327   21511 cpu_allocator_impl.cc:82] Allocation of 694520320 exceeds 10% of free system memory.
+[6aa] (1782385297) Thu Jun 25 16:31:37 2026
+
+1709: freq=865062500
+1739: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 2
+[413] (1782385483) Thu Jun 25 16:34:43 2026
+
+1046: freq=865062500
+1076: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 3
+Recording sample number 63 on 2026-06-25 16:26:47.061726
+Recording sample number 64 on 2026-06-25 16:26:57.221908
+Recording sample number 65 on 2026-06-25 16:27:07.372459
+Recording sample number 66 on 2026-06-25 16:27:17.384491
+Recording sample number 67 on 2026-06-25 16:27:27.396342
+Recording sample number 68 on 2026-06-25 16:27:37.406828
+Recording sample number 69 on 2026-06-25 16:27:47.415253
+Recording sample number 70 on 2026-06-25 16:27:57.424516
+Recording sample number 71 on 2026-06-25 16:28:07.433561
+Recording sample number 72 on 2026-06-25 16:28:17.444937
+Estimated rainfall:  -0.032464672
+Davis Rain: 0.2
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_16_691959.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_57_221908.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_46_315807.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_27_47_415253.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_36_911685.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_36_168741.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_27_57_424516.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_29_285854.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_28_07_433561.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_09_057293.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_39_349184.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_28_17_444937.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_27_07_372459.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_27_27_396342.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_27_17_384491.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_27_37_406828.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_49_505377.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_56_472554.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_19_133430.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_38_603893.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_06_627081.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_26_012856.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_48_756798.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_58_910298.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_59_661110.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_25_28_445705.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_26_846808.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_26_47_061726.wav
+Recording sample number 73 on 2026-06-25 16:28:34.458853
+Recording sample number 74 on 2026-06-25 16:28:44.647794
+Recording sample number 75 on 2026-06-25 16:28:54.653986
+Recording sample number 76 on 2026-06-25 16:29:04.663915
+Recording sample number 77 on 2026-06-25 16:29:14.674124
+Recording sample number 78 on 2026-06-25 16:29:24.684170
+Recording sample number 79 on 2026-06-25 16:29:34.695844
+Recording sample number 80 on 2026-06-25 16:29:44.708297
+Recording sample number 81 on 2026-06-25 16:29:54.717043
+Recording sample number 82 on 2026-06-25 16:30:04.727150
+Recording sample number 83 on 2026-06-25 16:30:14.738838
+Recording sample number 84 on 2026-06-25 16:30:24.746648
+Recording sample number 85 on 2026-06-25 16:30:34.759436
+Recording sample number 86 on 2026-06-25 16:30:44.769934
+Recording sample number 87 on 2026-06-25 16:30:54.776116
+Recording sample number 88 on 2026-06-25 16:31:04.786833
+Recording sample number 89 on 2026-06-25 16:31:14.797252
+Recording sample number 90 on 2026-06-25 16:31:24.805831
+Estimated rainfall:  0.43098044
+Davis Rain: 0.0
+Deleted: /home/pi/raingauge/data/2026_06_25_16_29_04_663915.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_29_44_708297.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_29_34_695844.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_28_54_653986.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_28_44_647794.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_30_04_727150.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_30_34_759436.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_30_14_738838.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_30_44_769934.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_30_54_776116.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_29_24_684170.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_29_54_717043.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_28_34_458853.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_29_14_674124.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_31_14_797252.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_31_04_786833.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_31_24_805831.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_30_24_746648.wav
+Recording sample number 91 on 2026-06-25 16:31:40.405795
+Recording sample number 92 on 2026-06-25 16:31:50.597990
+Recording sample number 93 on 2026-06-25 16:32:00.609375
+Recording sample number 94 on 2026-06-25 16:32:10.619022
+Recording sample number 95 on 2026-06-25 16:32:20.631699
+Recording sample number 96 on 2026-06-25 16:32:30.641735
+Recording sample number 97 on 2026-06-25 16:32:40.653902
+Recording sample number 98 on 2026-06-25 16:32:50.661922
+Recording sample number 99 on 2026-06-25 16:33:00.675684
+Recording sample number 100 on 2026-06-25 16:33:10.684145
+Recording sample number 101 on 2026-06-25 16:33:20.697541
+Recording sample number 102 on 2026-06-25 16:33:30.707358
+Recording sample number 103 on 2026-06-25 16:33:40.716310
+Recording sample number 104 on 2026-06-25 16:33:50.725349
+Recording sample number 105 on 2026-06-25 16:34:00.737151
+Recording sample number 106 on 2026-06-25 16:34:10.746221
+Recording sample number 107 on 2026-06-25 16:34:20.756070
+Recording sample number 108 on 2026-06-25 16:34:30.769004
+Estimated rainfall:  0.29369116
+Davis Rain: 0.0
+Deleted: /home/pi/raingauge/data/2026_06_25_16_31_50_597990.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_33_40_716310.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_34_20_756070.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_33_10_684145.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_32_10_619022.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_32_30_641735.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_34_10_746221.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_33_20_697541.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_33_50_725349.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_33_00_675684.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_34_00_737151.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_31_40_405795.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_32_40_653902.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_32_50_661922.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_32_00_609375.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_33_30_707358.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_32_20_631699.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_34_30_769004.wav
+Recording sample number 109 on 2026-06-25 16:34:46.465347
+Recording sample number 110 on 2026-06-25 16:34:56.656626
+Recording sample number 111 on 2026-06-25 16:35:06.666993
+Recording sample number 112 on 2026-06-25 16:35:16.678301
+Recording sample number 113 on 2026-06-25 16:35:26.691277
+Recording sample number 114 on 2026-06-25 16:35:36.698926
+Recording sample number 115 on 2026-06-25 16:35:46.709813
+Recording sample number 116 on 2026-06-25 16:35:56.718260
+Recording sample number 117 on 2026-06-25 16:36:06.727577
+Recording sample number 118 on 2026-06-25 16:36:16.739948
+Recording sample number 119 on 2026-06-25 16:36:26.750237
+Recording sample number 120 on 2026-06-25 16:36:36.760349
+Recording sample number 121 on 2026-06-25 16:36:46.770796
+Recording sample number 122 on 2026-06-25 16:36:56.781699
+Recording sample number 123 on 2026-06-25 16:37:06.793301
+Recording sample number 124 on 2026-06-25 16:37:16.804174
+Recording sample number 125 on 2026-06-25 16:37:26.815299
+Recording sample number 126 on 2026-06-25 16:37:36.827322
+Estimated rainfall:  0.41731486
+Davis Rain: 0.0
+Deleted: /home/pi/raingauge/data/2026_06_25_16_36_36_760349.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_36_16_739948.wav
+Deleted: /home/pi/raingauge/data/2026_06_25_16_35_56_718260.wav
+[bab] (1782385669) Thu Jun 25 16:37:49 2026
+
+2990: freq=865062500
+3021: TXMODE, freq=865062500, len=25, SF=8, BW=125, CR=4/5, IH=0
+Event EV_TXCOMPLETE, time: 4

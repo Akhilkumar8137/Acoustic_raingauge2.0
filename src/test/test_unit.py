@@ -3,9 +3,10 @@ this file contain codes for unit testing using pytest framework
 # SysConfigPath = "/home/icfoss/hari_work/z_git/rainfall_monitor/config"
 # PiConfigPath = "/home/pi/raingauge/code/config"
 """
-from utils.helper import time_stamp_fnamer,load_config,create_folder,load_estimate_model
-from utils.helper import create_lstm_model_withcnn,create_lstm_model_withoutcnn,influxdb
+from utils.helper import time_stamp_fnamer,load_config,create_folder
 from utils.estimate import create_cnn_data,combine_audios,estimate_rainfall
+from utils.estimate import create_lstm_model_withcnn, load_estimate_model
+from davis_logger import influxdb
 from datetime import datetime
 import os,numpy as np
 import subprocess

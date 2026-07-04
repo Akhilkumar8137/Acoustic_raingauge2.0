@@ -28,7 +28,7 @@ def send_test_data():
         try:
             result = subprocess.call(
                 [
-                    "ttn-abp-send",
+                    "/home/pi/raingauge/src/lmic_rpi/examples/ttn-abp-send/ttn-abp-send",
                     dev_addr,
                     nwk_skey,
                     app_skey,

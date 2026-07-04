@@ -5,7 +5,7 @@ from utils.helper import load_config
 import subprocess
 
 
-def send_data_via_internet(rain, solar_V, battery_V, solar_I, battery_I: float) -> bool:
+def send_data_via_internet(rain,davis_rain,solar_V, battery_V, solar_I, battery_I: float) -> bool:
     """
     function to write data to influxdb using internet
     """
@@ -43,7 +43,7 @@ def send_data_via_internet(rain, solar_V, battery_V, solar_I, battery_I: float) 
         return False
 
 
-def send_data_via_lorawan(mm_hat, solar_V, battery_V, solar_I, battery_I):
+def send_data_via_lorawan(mm_hat,davis_rain,solar_V, battery_V, solar_I, battery_I):
     """
     function to write data to chirpstack server using LoRa
     """
@@ -61,11 +61,12 @@ def send_data_via_lorawan(mm_hat, solar_V, battery_V, solar_I, battery_I):
         try:
             result = subprocess.call(
                 [
-                    "ttn-abp-send",
+                    "/home/pi/raingauge/src/lmic_rpi/examples/ttn-abp-send/ttn-abp-send",
                     dev_addr,
                     nwk_skey,
                     app_skey,
                     str(mm_hat),
+                    str(davis_rain),
                     str(solar_V),
                     str(battery_V),
                     str(solar_I),

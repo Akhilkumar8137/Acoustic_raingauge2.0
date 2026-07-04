@@ -1,0 +1,1371 @@
+*******************************************************
+Started data logging at 2026-06-09 11:18:01.078638
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-09 11:18:01.080794
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-09 11:18:11.283307
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-09 11:18:21.293745
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-09 11:18:31.306730
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-09 11:18:41.317970
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-09 11:18:51.328636
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-09 11:19:01.345732
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-09 11:19:11.359846
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-09 11:19:21.369746
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-09 11:19:31.379208
+Time left: 6 days 23 hours 58 minutes and 19 seconds
+
+Recording sample number 11 on 2026-06-09 11:19:41.392177
+Time left: 6 days 23 hours 58 minutes and 9 seconds
+
+Recording sample number 12 on 2026-06-09 11:19:51.399295
+Time left: 6 days 23 hours 57 minutes and 59 seconds
+
+Recording sample number 13 on 2026-06-09 11:20:01.414974
+Time left: 6 days 23 hours 57 minutes and 49 seconds
+
+Recording sample number 14 on 2026-06-09 11:20:11.427263
+Time left: 6 days 23 hours 57 minutes and 39 seconds
+
+Recording sample number 15 on 2026-06-09 11:20:21.438336
+Time left: 6 days 23 hours 57 minutes and 29 seconds
+
+Recording sample number 16 on 2026-06-09 11:20:31.449939
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-09 11:20:41.460348
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-09 11:20:51.468834
+Time left: 6 days 23 hours 55 minutes and 55 seconds
+
+Recording sample number 19 on 2026-06-09 11:22:05.240453
+Time left: 6 days 23 hours 55 minutes and 45 seconds
+
+Recording sample number 20 on 2026-06-09 11:22:15.432347
+Time left: 6 days 23 hours 55 minutes and 35 seconds
+
+Recording sample number 21 on 2026-06-09 11:22:25.445675
+Time left: 6 days 23 hours 55 minutes and 24 seconds
+
+Recording sample number 22 on 2026-06-09 11:22:35.456717
+Time left: 6 days 23 hours 55 minutes and 14 seconds
+
+Recording sample number 23 on 2026-06-09 11:22:45.469753
+Time left: 6 days 23 hours 55 minutes and 4 seconds
+
+Recording sample number 24 on 2026-06-09 11:22:55.481765
+Time left: 6 days 23 hours 54 minutes and 54 seconds
+
+Recording sample number 25 on 2026-06-09 11:23:05.490983
+Time left: 6 days 23 hours 54 minutes and 44 seconds
+
+Recording sample number 26 on 2026-06-09 11:23:15.506544
+Time left: 6 days 23 hours 54 minutes and 34 seconds
+
+Recording sample number 27 on 2026-06-09 11:23:25.514645
+Time left: 6 days 23 hours 54 minutes and 24 seconds
+
+Recording sample number 28 on 2026-06-09 11:23:35.522916
+Time left: 6 days 23 hours 54 minutes and 14 seconds
+
+Recording sample number 29 on 2026-06-09 11:23:45.534480
+Time left: 6 days 23 hours 54 minutes and 4 seconds
+
+Recording sample number 30 on 2026-06-09 11:23:55.542656
+Time left: 6 days 23 hours 53 minutes and 54 seconds
+
+Recording sample number 31 on 2026-06-09 11:24:05.554453
+Time left: 6 days 23 hours 53 minutes and 44 seconds
+
+Recording sample number 32 on 2026-06-09 11:24:15.567486
+Time left: 6 days 23 hours 53 minutes and 34 seconds
+
+Recording sample number 33 on 2026-06-09 11:24:25.580809
+Time left: 6 days 23 hours 53 minutes and 24 seconds
+
+Recording sample number 34 on 2026-06-09 11:24:35.595082
+Time left: 6 days 23 hours 53 minutes and 14 seconds
+
+Recording sample number 35 on 2026-06-09 11:24:45.608118
+Time left: 6 days 23 hours 53 minutes and 4 seconds
+
+Recording sample number 36 on 2026-06-09 11:24:55.621989
+Time left: 6 days 23 hours 52 minutes and 47 seconds
+
+Recording sample number 37 on 2026-06-09 11:25:12.457061
+Time left: 6 days 23 hours 52 minutes and 37 seconds
+
+Recording sample number 38 on 2026-06-09 11:25:22.644057
+Time left: 6 days 23 hours 52 minutes and 27 seconds
+
+Recording sample number 39 on 2026-06-09 11:25:32.656171
+Time left: 6 days 23 hours 52 minutes and 17 seconds
+
+Recording sample number 40 on 2026-06-09 11:25:42.667796
+Time left: 6 days 23 hours 52 minutes and 7 seconds
+
+Recording sample number 41 on 2026-06-09 11:25:52.678847
+Time left: 6 days 23 hours 51 minutes and 57 seconds
+
+Recording sample number 42 on 2026-06-09 11:26:02.689160
+Time left: 6 days 23 hours 51 minutes and 47 seconds
+
+Recording sample number 43 on 2026-06-09 11:26:12.699211
+Time left: 6 days 23 hours 51 minutes and 37 seconds
+
+Recording sample number 44 on 2026-06-09 11:26:22.711660
+Time left: 6 days 23 hours 51 minutes and 27 seconds
+
+Recording sample number 45 on 2026-06-09 11:26:32.723544
+Time left: 6 days 23 hours 51 minutes and 17 seconds
+
+Recording sample number 46 on 2026-06-09 11:26:42.734781
+Time left: 6 days 23 hours 51 minutes and 7 seconds
+
+Recording sample number 47 on 2026-06-09 11:26:52.747120
+Time left: 6 days 23 hours 50 minutes and 57 seconds
+
+Recording sample number 48 on 2026-06-09 11:27:02.756876
+Time left: 6 days 23 hours 50 minutes and 47 seconds
+
+Recording sample number 49 on 2026-06-09 11:27:12.771128
+Time left: 6 days 23 hours 50 minutes and 37 seconds
+
+Recording sample number 50 on 2026-06-09 11:27:22.782163
+Time left: 6 days 23 hours 50 minutes and 27 seconds
+
+Recording sample number 51 on 2026-06-09 11:27:32.792862
+Time left: 6 days 23 hours 50 minutes and 17 seconds
+
+Recording sample number 52 on 2026-06-09 11:27:42.808254
+Time left: 6 days 23 hours 50 minutes and 7 seconds
+
+Recording sample number 53 on 2026-06-09 11:27:52.819383
+Time left: 6 days 23 hours 49 minutes and 57 seconds
+
+Recording sample number 54 on 2026-06-09 11:28:02.829433
+Time left: 6 days 23 hours 49 minutes and 40 seconds
+
+Recording sample number 55 on 2026-06-09 11:28:19.768293
+Time left: 6 days 23 hours 49 minutes and 30 seconds
+
+Recording sample number 56 on 2026-06-09 11:28:29.956927
+Time left: 6 days 23 hours 49 minutes and 20 seconds
+
+Recording sample number 57 on 2026-06-09 11:28:39.972183
+Time left: 6 days 23 hours 49 minutes and 10 seconds
+
+Recording sample number 58 on 2026-06-09 11:28:49.985970
+Time left: 6 days 23 hours 49 minutes and 0 seconds
+
+Recording sample number 59 on 2026-06-09 11:28:59.995864
+Time left: 6 days 23 hours 48 minutes and 50 seconds
+
+Recording sample number 60 on 2026-06-09 11:29:10.011253
+Time left: 6 days 23 hours 48 minutes and 40 seconds
+
+Recording sample number 61 on 2026-06-09 11:29:20.026053
+Time left: 6 days 23 hours 48 minutes and 30 seconds
+
+Recording sample number 62 on 2026-06-09 11:29:30.038962
+Time left: 6 days 23 hours 48 minutes and 20 seconds
+
+Recording sample number 63 on 2026-06-09 11:29:40.051241
+Time left: 6 days 23 hours 48 minutes and 10 seconds
+
+Recording sample number 64 on 2026-06-09 11:29:50.060204
+Time left: 6 days 23 hours 48 minutes and 0 seconds
+
+Recording sample number 65 on 2026-06-09 11:30:00.075842
+Time left: 6 days 23 hours 47 minutes and 50 seconds
+
+Recording sample number 66 on 2026-06-09 11:30:10.088595
+Time left: 6 days 23 hours 47 minutes and 40 seconds
+
+Recording sample number 67 on 2026-06-09 11:30:20.099992
+Time left: 6 days 23 hours 47 minutes and 30 seconds
+
+Recording sample number 68 on 2026-06-09 11:30:30.112460
+Time left: 6 days 23 hours 47 minutes and 20 seconds
+
+Recording sample number 69 on 2026-06-09 11:30:40.125119
+Time left: 6 days 23 hours 47 minutes and 10 seconds
+
+Recording sample number 70 on 2026-06-09 11:30:50.136320
+Time left: 6 days 23 hours 47 minutes and 0 seconds
+
+Recording sample number 71 on 2026-06-09 11:31:00.146665
+Time left: 6 days 23 hours 46 minutes and 50 seconds
+
+Recording sample number 72 on 2026-06-09 11:31:10.160589
+Time left: 6 days 23 hours 46 minutes and 33 seconds
+
+Recording sample number 73 on 2026-06-09 11:31:26.665110
+Time left: 6 days 23 hours 46 minutes and 23 seconds
+
+Recording sample number 74 on 2026-06-09 11:31:36.859184
+Time left: 6 days 23 hours 46 minutes and 13 seconds
+
+Recording sample number 75 on 2026-06-09 11:31:46.867563
+Time left: 6 days 23 hours 46 minutes and 3 seconds
+
+Recording sample number 76 on 2026-06-09 11:31:56.877582
+Time left: 6 days 23 hours 45 minutes and 53 seconds
+
+Recording sample number 77 on 2026-06-09 11:32:06.887226
+Time left: 6 days 23 hours 45 minutes and 43 seconds
+
+Recording sample number 78 on 2026-06-09 11:32:16.904869
+Time left: 6 days 23 hours 45 minutes and 33 seconds
+
+Recording sample number 79 on 2026-06-09 11:32:26.914151
+Time left: 6 days 23 hours 45 minutes and 23 seconds
+
+Recording sample number 80 on 2026-06-09 11:32:36.922989
+Time left: 6 days 23 hours 45 minutes and 13 seconds
+
+Recording sample number 81 on 2026-06-09 11:32:46.935890
+Time left: 6 days 23 hours 45 minutes and 3 seconds
+
+Recording sample number 82 on 2026-06-09 11:32:56.948821
+Time left: 6 days 23 hours 44 minutes and 53 seconds
+
+Recording sample number 83 on 2026-06-09 11:33:06.959199
+Time left: 6 days 23 hours 44 minutes and 43 seconds
+
+Recording sample number 84 on 2026-06-09 11:33:16.970950
+Time left: 6 days 23 hours 44 minutes and 33 seconds
+
+Recording sample number 85 on 2026-06-09 11:33:26.981113
+Time left: 6 days 23 hours 44 minutes and 23 seconds
+
+Recording sample number 86 on 2026-06-09 11:33:36.995250
+Time left: 6 days 23 hours 44 minutes and 13 seconds
+
+Recording sample number 87 on 2026-06-09 11:33:47.010267
+Time left: 6 days 23 hours 44 minutes and 3 seconds
+
+Recording sample number 88 on 2026-06-09 11:33:57.018956
+Time left: 6 days 23 hours 43 minutes and 53 seconds
+
+Recording sample number 89 on 2026-06-09 11:34:07.032853
+Time left: 6 days 23 hours 43 minutes and 43 seconds
+
+Recording sample number 90 on 2026-06-09 11:34:17.046737
+Time left: 6 days 23 hours 43 minutes and 27 seconds
+
+Recording sample number 91 on 2026-06-09 11:34:33.448048
+*******************************************************
+Started data logging at 2026-06-09 11:41:59.834999
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-09 11:41:59.836214
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-09 11:42:10.016134
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-09 11:42:20.022567
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-09 11:42:30.031660
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-09 11:42:40.039598
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-09 11:42:50.052804
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-09 11:43:00.063818
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-09 11:43:10.071088
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-09 11:43:20.082855
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-09 11:43:30.090142
+Time left: 6 days 23 hours 58 minutes and 19 seconds
+
+Recording sample number 11 on 2026-06-09 11:43:40.102030
+Time left: 6 days 23 hours 58 minutes and 9 seconds
+
+Recording sample number 12 on 2026-06-09 11:43:50.115858
+Time left: 6 days 23 hours 57 minutes and 59 seconds
+
+Recording sample number 13 on 2026-06-09 11:44:00.124742
+Time left: 6 days 23 hours 57 minutes and 49 seconds
+
+Recording sample number 14 on 2026-06-09 11:44:10.138541
+Time left: 6 days 23 hours 57 minutes and 39 seconds
+
+Recording sample number 15 on 2026-06-09 11:44:20.151795
+Time left: 6 days 23 hours 57 minutes and 29 seconds
+
+Recording sample number 16 on 2026-06-09 11:44:30.168036
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-09 11:44:40.181676
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-09 11:44:50.192369
+Time left: 6 days 23 hours 56 minutes and 46 seconds
+
+Recording sample number 19 on 2026-06-09 11:45:12.289448
+Time left: 6 days 23 hours 56 minutes and 36 seconds
+
+Recording sample number 20 on 2026-06-09 11:45:22.473627
+Time left: 6 days 23 hours 56 minutes and 26 seconds
+
+Recording sample number 21 on 2026-06-09 11:45:32.483948
+Time left: 6 days 23 hours 56 minutes and 16 seconds
+
+Recording sample number 22 on 2026-06-09 11:45:42.492854
+Time left: 6 days 23 hours 56 minutes and 6 seconds
+
+Recording sample number 23 on 2026-06-09 11:45:52.506730
+Time left: 6 days 23 hours 55 minutes and 56 seconds
+
+Recording sample number 24 on 2026-06-09 11:46:02.517721
+Time left: 6 days 23 hours 55 minutes and 46 seconds
+
+Recording sample number 25 on 2026-06-09 11:46:12.531379
+*******************************************************
+Started data logging at 2026-06-09 12:04:26.295026
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-09 12:04:26.303840
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-09 12:04:36.509176
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-09 12:04:46.519132
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-09 12:04:56.531395
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-09 12:05:06.544592
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-09 12:05:16.556154
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-09 12:05:26.565238
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-09 12:05:36.579990
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-09 12:05:46.594337
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-09 12:05:56.608027
+Time left: 6 days 23 hours 58 minutes and 19 seconds
+
+Recording sample number 11 on 2026-06-09 12:06:06.618498
+Time left: 6 days 23 hours 58 minutes and 9 seconds
+
+Recording sample number 12 on 2026-06-09 12:06:16.632871
+Time left: 6 days 23 hours 57 minutes and 59 seconds
+
+Recording sample number 13 on 2026-06-09 12:06:26.644374
+Time left: 6 days 23 hours 57 minutes and 49 seconds
+
+Recording sample number 14 on 2026-06-09 12:06:36.656385
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-09 12:06:46.667239
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-09 12:06:56.679605
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-09 12:07:06.689052
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-09 12:07:16.700564
+Time left: 6 days 23 hours 56 minutes and 43 seconds
+
+Recording sample number 19 on 2026-06-09 12:07:42.481269
+Time left: 6 days 23 hours 56 minutes and 32 seconds
+
+Recording sample number 20 on 2026-06-09 12:07:52.670479
+Time left: 6 days 23 hours 56 minutes and 22 seconds
+
+Recording sample number 21 on 2026-06-09 12:08:02.682039
+Time left: 6 days 23 hours 56 minutes and 12 seconds
+
+Recording sample number 22 on 2026-06-09 12:08:12.693360
+Time left: 6 days 23 hours 56 minutes and 2 seconds
+
+Recording sample number 23 on 2026-06-09 12:08:22.707528
+Time left: 6 days 23 hours 55 minutes and 52 seconds
+
+Recording sample number 24 on 2026-06-09 12:08:32.719739
+Time left: 6 days 23 hours 55 minutes and 42 seconds
+
+Recording sample number 25 on 2026-06-09 12:08:42.728577
+Time left: 6 days 23 hours 55 minutes and 32 seconds
+
+Recording sample number 26 on 2026-06-09 12:08:52.743691
+Time left: 6 days 23 hours 55 minutes and 22 seconds
+
+Recording sample number 27 on 2026-06-09 12:09:02.754791
+Time left: 6 days 23 hours 55 minutes and 12 seconds
+
+Recording sample number 28 on 2026-06-09 12:09:12.766171
+Time left: 6 days 23 hours 55 minutes and 2 seconds
+
+Recording sample number 29 on 2026-06-09 12:09:22.774094
+Time left: 6 days 23 hours 54 minutes and 52 seconds
+
+Recording sample number 30 on 2026-06-09 12:09:32.790449
+Time left: 6 days 23 hours 54 minutes and 42 seconds
+
+Recording sample number 31 on 2026-06-09 12:09:42.802238
+Time left: 6 days 23 hours 54 minutes and 32 seconds
+
+Recording sample number 32 on 2026-06-09 12:09:52.815601
+Time left: 6 days 23 hours 54 minutes and 22 seconds
+
+Recording sample number 33 on 2026-06-09 12:10:02.826237
+Time left: 6 days 23 hours 54 minutes and 12 seconds
+
+Recording sample number 34 on 2026-06-09 12:10:12.837264
+Time left: 6 days 23 hours 54 minutes and 2 seconds
+
+Recording sample number 35 on 2026-06-09 12:10:22.847629
+Time left: 6 days 23 hours 53 minutes and 52 seconds
+
+Recording sample number 36 on 2026-06-09 12:10:32.860749
+Time left: 6 days 23 hours 53 minutes and 36 seconds
+
+Recording sample number 37 on 2026-06-09 12:10:49.201314
+Time left: 6 days 23 hours 53 minutes and 26 seconds
+
+Recording sample number 38 on 2026-06-09 12:10:59.388607
+Time left: 6 days 23 hours 53 minutes and 16 seconds
+
+Recording sample number 39 on 2026-06-09 12:11:09.403316
+Time left: 6 days 23 hours 53 minutes and 6 seconds
+
+Recording sample number 40 on 2026-06-09 12:11:19.417920
+Time left: 6 days 23 hours 52 minutes and 56 seconds
+
+Recording sample number 41 on 2026-06-09 12:11:29.427705
+Time left: 6 days 23 hours 52 minutes and 46 seconds
+
+Recording sample number 42 on 2026-06-09 12:11:39.437349
+Time left: 6 days 23 hours 52 minutes and 36 seconds
+
+Recording sample number 43 on 2026-06-09 12:11:49.447416
+*******************************************************
+Started data logging at 2026-06-10 04:59:17.630170
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 04:59:17.639152
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 04:59:27.846677
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 04:59:37.860709
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 04:59:47.872584
+Time left: 6 days 23 hours 59 minutes and 18 seconds
+
+Recording sample number 5 on 2026-06-10 04:59:57.881083
+Time left: 6 days 23 hours 59 minutes and 8 seconds
+
+Recording sample number 6 on 2026-06-10 05:00:07.893155
+Time left: 6 days 23 hours 58 minutes and 58 seconds
+
+Recording sample number 7 on 2026-06-10 05:00:17.902221
+Time left: 6 days 23 hours 58 minutes and 48 seconds
+
+Recording sample number 8 on 2026-06-10 05:00:28.181082
+Time left: 6 days 23 hours 58 minutes and 38 seconds
+
+Recording sample number 9 on 2026-06-10 05:00:38.365255
+Time left: 6 days 23 hours 58 minutes and 28 seconds
+
+Recording sample number 10 on 2026-06-10 05:00:48.553183
+Time left: 6 days 23 hours 58 minutes and 18 seconds
+
+Recording sample number 11 on 2026-06-10 05:00:58.564317
+Time left: 6 days 23 hours 58 minutes and 8 seconds
+
+Recording sample number 12 on 2026-06-10 05:01:08.577903
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-10 05:01:18.589622
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 05:01:28.601902
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-10 05:01:38.617241
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-10 05:01:48.628404
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-10 05:01:58.642244
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-10 05:02:08.654147
+Time left: 6 days 23 hours 56 minutes and 42 seconds
+
+Recording sample number 19 on 2026-06-10 05:02:34.396203
+Time left: 6 days 23 hours 56 minutes and 32 seconds
+
+Recording sample number 20 on 2026-06-10 05:02:44.585825
+Time left: 6 days 23 hours 56 minutes and 22 seconds
+
+Recording sample number 21 on 2026-06-10 05:02:54.598654
+Time left: 6 days 23 hours 56 minutes and 12 seconds
+
+Recording sample number 22 on 2026-06-10 05:03:04.600934
+Time left: 6 days 23 hours 56 minutes and 2 seconds
+
+Recording sample number 23 on 2026-06-10 05:03:14.605642
+*******************************************************
+Started data logging at 2026-06-10 05:03:14.801249
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:03:14.802216
+Time left: 6 days 23 hours 55 minutes and 52 seconds
+
+Recording sample number 24 on 2026-06-10 05:03:24.699451
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:03:24.891679
+Time left: 6 days 23 hours 55 minutes and 42 seconds
+
+Recording sample number 25 on 2026-06-10 05:03:34.794721
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:03:34.988044
+Time left: 6 days 23 hours 55 minutes and 32 seconds
+
+Recording sample number 26 on 2026-06-10 05:03:44.800060
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 05:03:44.991331
+Time left: 6 days 23 hours 55 minutes and 21 seconds
+
+Recording sample number 27 on 2026-06-10 05:03:54.896652
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 05:03:55.085206
+Time left: 6 days 23 hours 55 minutes and 11 seconds
+
+Recording sample number 28 on 2026-06-10 05:04:04.899754
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 05:04:05.090068
+Time left: 6 days 23 hours 55 minutes and 1 seconds
+
+Recording sample number 29 on 2026-06-10 05:04:14.907437
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-10 05:04:15.100052
+Time left: 6 days 23 hours 54 minutes and 51 seconds
+
+Recording sample number 30 on 2026-06-10 05:04:24.921639
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-10 05:04:25.110839
+Time left: 6 days 23 hours 54 minutes and 41 seconds
+
+Recording sample number 31 on 2026-06-10 05:04:35.015138
+Time left: 6 days 23 hours 58 minutes and 38 seconds
+
+Recording sample number 9 on 2026-06-10 05:04:35.259331
+Time left: 6 days 23 hours 54 minutes and 31 seconds
+
+Recording sample number 32 on 2026-06-10 05:04:45.178334
+Time left: 6 days 23 hours 58 minutes and 28 seconds
+
+Recording sample number 10 on 2026-06-10 05:04:45.352809
+Time left: 6 days 23 hours 54 minutes and 21 seconds
+
+Recording sample number 33 on 2026-06-10 05:04:55.339023
+Time left: 6 days 23 hours 54 minutes and 11 seconds
+
+Recording sample number 34 on 2026-06-10 05:05:05.343108
+*******************************************************
+Started data logging at 2026-06-10 05:05:13.411358
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:05:13.412445
+Time left: 6 days 23 hours 54 minutes and 1 seconds
+
+Recording sample number 35 on 2026-06-10 05:05:15.493554
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:05:23.562902
+Time left: 6 days 23 hours 53 minutes and 51 seconds
+
+Recording sample number 36 on 2026-06-10 05:05:25.653796
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:05:33.722341
+Time left: 6 days 23 hours 53 minutes and 35 seconds
+
+Recording sample number 37 on 2026-06-10 05:05:41.754271
+Time left: 6 days 23 hours 59 minutes and 28 seconds
+
+Recording sample number 4 on 2026-06-10 05:05:43.822737
+Time left: 6 days 23 hours 53 minutes and 25 seconds
+
+Recording sample number 38 on 2026-06-10 05:05:51.847487
+Time left: 6 days 23 hours 59 minutes and 18 seconds
+
+Recording sample number 5 on 2026-06-10 05:05:53.918161
+Time left: 6 days 23 hours 53 minutes and 14 seconds
+
+Recording sample number 39 on 2026-06-10 05:06:01.945520
+Time left: 6 days 23 hours 53 minutes and 4 seconds
+
+Recording sample number 40 on 2026-06-10 05:06:11.953566
+Time left: 6 days 23 hours 52 minutes and 54 seconds
+
+Recording sample number 41 on 2026-06-10 05:06:21.961268
+*******************************************************
+Started data logging at 2026-06-10 05:06:24.985338
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:06:24.986350
+Time left: 6 days 23 hours 52 minutes and 44 seconds
+
+Recording sample number 42 on 2026-06-10 05:06:32.044657
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:06:35.163595
+Time left: 6 days 23 hours 52 minutes and 34 seconds
+
+Recording sample number 43 on 2026-06-10 05:06:42.139146
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:06:45.262766
+Time left: 6 days 23 hours 52 minutes and 24 seconds
+
+Recording sample number 44 on 2026-06-10 05:06:52.238846
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 05:06:55.358507
+Time left: 6 days 23 hours 52 minutes and 14 seconds
+
+Recording sample number 45 on 2026-06-10 05:07:02.335240
+Time left: 6 days 23 hours 59 minutes and 18 seconds
+
+Recording sample number 5 on 2026-06-10 05:07:05.456153
+Time left: 6 days 23 hours 52 minutes and 4 seconds
+
+Recording sample number 46 on 2026-06-10 05:07:12.430065
+Time left: 6 days 23 hours 59 minutes and 8 seconds
+
+Recording sample number 6 on 2026-06-10 05:07:15.551164
+Time left: 6 days 23 hours 51 minutes and 54 seconds
+
+Recording sample number 47 on 2026-06-10 05:07:22.528820
+Time left: 6 days 23 hours 58 minutes and 58 seconds
+
+Recording sample number 7 on 2026-06-10 05:07:25.561176
+Time left: 6 days 23 hours 51 minutes and 44 seconds
+
+Recording sample number 48 on 2026-06-10 05:07:32.532804
+Time left: 6 days 23 hours 58 minutes and 48 seconds
+
+Recording sample number 8 on 2026-06-10 05:07:35.657824
+Time left: 6 days 23 hours 51 minutes and 34 seconds
+
+Recording sample number 49 on 2026-06-10 05:07:42.629851
+Time left: 6 days 23 hours 58 minutes and 38 seconds
+
+Recording sample number 9 on 2026-06-10 05:07:45.754725
+Time left: 6 days 23 hours 51 minutes and 24 seconds
+
+Recording sample number 50 on 2026-06-10 05:07:52.727102
+Time left: 6 days 23 hours 58 minutes and 28 seconds
+
+Recording sample number 10 on 2026-06-10 05:07:55.849167
+Time left: 6 days 23 hours 51 minutes and 14 seconds
+
+Recording sample number 51 on 2026-06-10 05:08:02.816654
+Time left: 6 days 23 hours 58 minutes and 18 seconds
+
+Recording sample number 11 on 2026-06-10 05:08:05.939363
+Time left: 6 days 23 hours 51 minutes and 3 seconds
+
+Recording sample number 52 on 2026-06-10 05:08:12.914324
+Time left: 6 days 23 hours 58 minutes and 8 seconds
+
+Recording sample number 12 on 2026-06-10 05:08:16.034330
+Time left: 6 days 23 hours 50 minutes and 53 seconds
+
+Recording sample number 53 on 2026-06-10 05:08:23.009295
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-10 05:08:26.129766
+Time left: 6 days 23 hours 50 minutes and 43 seconds
+
+Recording sample number 54 on 2026-06-10 05:08:33.101101
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 05:08:36.224229
+                                                                                                               *******************************************************
+Started data logging at 2026-06-10 05:12:19.976388
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:12:19.980457
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:12:30.183992
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:12:40.197596
+Time left: 6 days 23 hours 59 minutes and 28 seconds
+
+Recording sample number 4 on 2026-06-10 05:12:50.211284
+Time left: 6 days 23 hours 59 minutes and 18 seconds
+
+Recording sample number 5 on 2026-06-10 05:13:00.223101
+Time left: 6 days 23 hours 59 minutes and 8 seconds
+
+Recording sample number 6 on 2026-06-10 05:13:10.237193
+Time left: 6 days 23 hours 58 minutes and 58 seconds
+
+Recording sample number 7 on 2026-06-10 05:13:20.247478
+Time left: 6 days 23 hours 58 minutes and 48 seconds
+
+Recording sample number 8 on 2026-06-10 05:13:30.258159
+Time left: 6 days 23 hours 58 minutes and 38 seconds
+
+Recording sample number 9 on 2026-06-10 05:13:40.275333
+*******************************************************
+Started data logging at 2026-06-10 05:15:57.904502
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:15:57.905654
+*******************************************************
+Started data logging at 2026-06-10 05:24:31.921852
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:24:31.923008
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:24:41.931538
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:24:51.942958
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 05:25:01.955770
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 05:25:11.969407
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 05:25:21.983844
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-10 05:25:31.994250
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-10 05:25:42.001823
+*******************************************************
+Started data logging at 2026-06-10 05:25:49.092823
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:25:49.093967
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-10 05:25:52.104375
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:25:59.168452
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-10 05:26:02.202415
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:26:09.179750
+Time left: 6 days 23 hours 58 minutes and 19 seconds
+
+Recording sample number 11 on 2026-06-10 05:26:12.214006
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 05:26:19.189743
+Time left: 6 days 23 hours 58 minutes and 8 seconds
+
+Recording sample number 12 on 2026-06-10 05:26:22.311185
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 05:26:29.284482
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-10 05:26:32.408872
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 05:26:39.379873
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 05:26:42.506158
+Time left: 6 days 23 hours 58 minutes and 58 seconds
+
+Recording sample number 7 on 2026-06-10 05:26:49.475818
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-10 05:26:52.604035
+Time left: 6 days 23 hours 58 minutes and 48 seconds
+
+Recording sample number 8 on 2026-06-10 05:26:59.574226
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-10 05:27:02.698025
+Time left: 6 days 23 hours 58 minutes and 38 seconds
+
+Recording sample number 9 on 2026-06-10 05:27:09.672025
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-10 05:27:12.793376
+Time left: 6 days 23 hours 58 minutes and 28 seconds
+
+Recording sample number 10 on 2026-06-10 05:27:19.768978
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-10 05:27:22.891998
+Time left: 6 days 23 hours 58 minutes and 18 seconds
+
+Recording sample number 11 on 2026-06-10 05:27:29.866054
+Time left: 6 days 23 hours 58 minutes and 8 seconds
+
+Recording sample number 12 on 2026-06-10 05:27:39.874751
+Time left: 6 days 23 hours 56 minutes and 41 seconds
+
+Recording sample number 19 on 2026-06-10 05:27:49.425865
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-10 05:27:50.019465
+Time left: 6 days 23 hours 56 minutes and 31 seconds
+
+Recording sample number 20 on 2026-06-10 05:27:59.501268
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 05:28:00.031121
+Time left: 6 days 23 hours 56 minutes and 21 seconds
+
+Recording sample number 21 on 2026-06-10 05:28:09.601295
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-10 05:28:10.127991
+Time left: 6 days 23 hours 56 minutes and 11 seconds
+
+Recording sample number 22 on 2026-06-10 05:28:19.605682
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-10 05:28:20.134427
+Time left: 6 days 23 hours 56 minutes and 1 seconds
+
+Recording sample number 23 on 2026-06-10 05:28:29.617605
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-10 05:28:30.144339
+Time left: 6 days 23 hours 55 minutes and 51 seconds
+
+Recording sample number 24 on 2026-06-10 05:28:39.626323
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-10 05:28:40.155750
+Time left: 6 days 23 hours 55 minutes and 41 seconds
+
+Recording sample number 25 on 2026-06-10 05:28:49.636258
+Time left: 6 days 23 hours 55 minutes and 31 seconds
+
+Recording sample number 26 on 2026-06-10 05:28:59.644288
+Time left: 6 days 23 hours 56 minutes and 46 seconds
+
+Recording sample number 19 on 2026-06-10 05:29:02.014326
+Time left: 6 days 23 hours 55 minutes and 21 seconds
+
+Recording sample number 27 on 2026-06-10 05:29:09.722932
+Time left: 6 days 23 hours 56 minutes and 36 seconds
+
+Recording sample number 20 on 2026-06-10 05:29:12.166014
+Time left: 6 days 23 hours 55 minutes and 11 seconds
+
+Recording sample number 28 on 2026-06-10 05:29:19.883399
+Time left: 6 days 23 hours 56 minutes and 26 seconds
+
+Recording sample number 21 on 2026-06-10 05:29:22.326090
+Time left: 6 days 23 hours 55 minutes and 1 seconds
+
+Recording sample number 29 on 2026-06-10 05:29:30.038806
+Time left: 6 days 23 hours 56 minutes and 15 seconds
+
+Recording sample number 22 on 2026-06-10 05:29:32.482519
+Time left: 6 days 23 hours 54 minutes and 51 seconds
+
+Recording sample number 30 on 2026-06-10 05:29:40.110136
+Time left: 6 days 23 hours 56 minutes and 5 seconds
+
+Recording sample number 23 on 2026-06-10 05:29:42.551355
+Time left: 6 days 23 hours 54 minutes and 41 seconds
+
+Recording sample number 31 on 2026-06-10 05:29:50.268190
+Time left: 6 days 23 hours 55 minutes and 55 seconds
+
+Recording sample number 24 on 2026-06-10 05:29:52.712037
+Time left: 6 days 23 hours 54 minutes and 30 seconds
+
+Recording sample number 32 on 2026-06-10 05:30:00.429178
+Time left: 6 days 23 hours 54 minutes and 20 seconds
+
+Recording sample number 33 on 2026-06-10 05:30:10.442318
+Time left: 6 days 23 hours 54 minutes and 10 seconds
+
+Recording sample number 34 on 2026-06-10 05:30:20.454844
+Time left: 6 days 23 hours 54 minutes and 0 seconds
+
+Recording sample number 35 on 2026-06-10 05:30:30.467898
+Time left: 6 days 23 hours 53 minutes and 50 seconds
+
+Recording sample number 36 on 2026-06-10 05:30:40.480680
+Time left: 6 days 23 hours 53 minutes and 33 seconds
+
+Recording sample number 37 on 2026-06-10 05:30:57.284548
+Time left: 6 days 23 hours 53 minutes and 23 seconds
+
+Recording sample number 38 on 2026-06-10 05:31:07.291474
+Time left: 6 days 23 hours 53 minutes and 13 seconds
+
+Recording sample number 39 on 2026-06-10 05:31:17.393130
+Time left: 6 days 23 hours 53 minutes and 3 seconds
+
+Recording sample number 40 on 2026-06-10 05:31:27.491607
+Time left: 6 days 23 hours 52 minutes and 53 seconds
+
+Recording sample number 41 on 2026-06-10 05:31:37.502292
+Time left: 6 days 23 hours 52 minutes and 43 seconds
+
+Recording sample number 42 on 2026-06-10 05:31:47.517332
+Time left: 6 days 23 hours 52 minutes and 33 seconds
+
+Recording sample number 43 on 2026-06-10 05:31:57.532007
+Time left: 6 days 23 hours 52 minutes and 23 seconds
+
+Recording sample number 44 on 2026-06-10 05:32:07.631132
+Time left: 6 days 23 hours 52 minutes and 13 seconds
+
+Recording sample number 45 on 2026-06-10 05:32:17.641945
+Time left: 6 days 23 hours 52 minutes and 3 seconds
+
+Recording sample number 46 on 2026-06-10 05:32:27.651464
+Time left: 6 days 23 hours 51 minutes and 53 seconds
+
+Recording sample number 47 on 2026-06-10 05:32:37.663077
+Time left: 6 days 23 hours 51 minutes and 43 seconds
+
+Recording sample number 48 on 2026-06-10 05:32:47.675665
+Time left: 6 days 23 hours 51 minutes and 33 seconds
+
+Recording sample number 49 on 2026-06-10 05:32:57.689818
+Time left: 6 days 23 hours 51 minutes and 23 seconds
+
+Recording sample number 50 on 2026-06-10 05:33:07.704641
+Time left: 6 days 23 hours 51 minutes and 13 seconds
+
+Recording sample number 51 on 2026-06-10 05:33:17.719853
+Time left: 6 days 23 hours 51 minutes and 3 seconds
+
+Recording sample number 52 on 2026-06-10 05:33:27.816031
+Time left: 6 days 23 hours 50 minutes and 53 seconds
+
+Recording sample number 53 on 2026-06-10 05:33:37.914902
+Time left: 6 days 23 hours 50 minutes and 43 seconds
+
+Recording sample number 54 on 2026-06-10 05:33:47.926881
+Time left: 6 days 23 hours 50 minutes and 26 seconds
+
+Recording sample number 55 on 2026-06-10 05:34:04.312425
+Time left: 6 days 23 hours 50 minutes and 16 seconds
+
+Recording sample number 56 on 2026-06-10 05:34:14.495517
+Time left: 6 days 23 hours 50 minutes and 6 seconds
+
+Recording sample number 57 on 2026-06-10 05:34:24.591713
+Time left: 6 days 23 hours 49 minutes and 56 seconds
+
+Recording sample number 58 on 2026-06-10 05:34:34.602937
+Time left: 6 days 23 hours 49 minutes and 46 seconds
+
+Recording sample number 59 on 2026-06-10 05:34:44.700760
+Time left: 6 days 23 hours 49 minutes and 36 seconds
+
+Recording sample number 60 on 2026-06-10 05:34:54.713616
+Time left: 6 days 23 hours 49 minutes and 26 seconds
+
+Recording sample number 61 on 2026-06-10 05:35:04.811396
+Time left: 6 days 23 hours 49 minutes and 16 seconds
+
+Recording sample number 62 on 2026-06-10 05:35:14.820976
+Time left: 6 days 23 hours 49 minutes and 6 seconds
+
+Recording sample number 63 on 2026-06-10 05:35:24.830211
+Time left: 6 days 23 hours 48 minutes and 56 seconds
+
+Recording sample number 64 on 2026-06-10 05:35:34.841133
+Time left: 6 days 23 hours 48 minutes and 46 seconds
+
+Recording sample number 65 on 2026-06-10 05:35:44.851029
+Time left: 6 days 23 hours 48 minutes and 36 seconds
+
+Recording sample number 66 on 2026-06-10 05:35:54.861134
+Time left: 6 days 23 hours 48 minutes and 26 seconds
+
+Recording sample number 67 on 2026-06-10 05:36:04.876589
+Time left: 6 days 23 hours 48 minutes and 16 seconds
+
+Recording sample number 68 on 2026-06-10 05:36:14.890723
+Time left: 6 days 23 hours 48 minutes and 6 seconds
+
+Recording sample number 69 on 2026-06-10 05:36:24.904460
+Time left: 6 days 23 hours 47 minutes and 56 seconds
+
+Recording sample number 70 on 2026-06-10 05:36:35.002005
+Time left: 6 days 23 hours 47 minutes and 46 seconds
+
+Recording sample number 71 on 2026-06-10 05:36:45.014296
+Time left: 6 days 23 hours 47 minutes and 36 seconds
+
+Recording sample number 72 on 2026-06-10 05:36:55.022381
+Time left: 6 days 23 hours 47 minutes and 19 seconds
+
+Recording sample number 73 on 2026-06-10 05:37:12.052013
+Time left: 6 days 23 hours 47 minutes and 9 seconds
+
+Recording sample number 74 on 2026-06-10 05:37:22.235288
+Time left: 6 days 23 hours 46 minutes and 59 seconds
+
+Recording sample number 75 on 2026-06-10 05:37:32.252473
+*******************************************************
+Started data logging at 2026-06-10 05:40:35.794756
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:40:35.795784
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:40:45.979902
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:40:55.990797
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 05:41:06.004220
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 05:41:16.018297
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 05:41:26.117133
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-10 05:41:36.131939
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-10 05:41:46.147001
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-10 05:41:56.159067
+Time left: 6 days 23 hours 58 minutes and 28 seconds
+
+Recording sample number 10 on 2026-06-10 05:42:06.174035
+*******************************************************
+Started data logging at 2026-06-10 05:53:34.562805
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 05:53:34.568676
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 05:53:44.756244
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 05:53:54.764394
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 05:54:04.776855
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 05:54:14.788788
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 05:54:24.802905
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-10 05:54:34.817406
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-10 05:54:44.829987
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-10 05:54:54.842855
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-10 05:55:04.854992
+Time left: 6 days 23 hours 58 minutes and 19 seconds
+
+Recording sample number 11 on 2026-06-10 05:55:14.866887
+Time left: 6 days 23 hours 58 minutes and 9 seconds
+
+Recording sample number 12 on 2026-06-10 05:55:24.877105
+Time left: 6 days 23 hours 57 minutes and 59 seconds
+
+Recording sample number 13 on 2026-06-10 05:55:34.889088
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 05:55:44.988082
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-10 05:55:55.001283
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-10 05:56:05.017266
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-10 05:56:15.029832
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-10 05:56:25.044816
+*******************************************************
+Started data logging at 2026-06-10 06:01:21.819392
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 06:01:21.820409
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 06:01:32.002071
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 06:01:42.011038
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 06:01:52.026300
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 06:02:02.035798
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 06:02:12.049296
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-10 06:02:22.062183
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-10 06:02:32.161672
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-10 06:02:42.176519
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-10 06:02:52.185820
+Time left: 6 days 23 hours 58 minutes and 18 seconds
+
+Recording sample number 11 on 2026-06-10 06:03:02.196361
+Time left: 6 days 23 hours 58 minutes and 8 seconds
+
+Recording sample number 12 on 2026-06-10 06:03:12.213141
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-10 06:03:22.226216
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 06:03:32.239118
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-10 06:03:42.252048
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-10 06:03:52.350114
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-10 06:04:02.359186
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-10 06:04:12.375178
+*******************************************************
+Started data logging at 2026-06-10 06:13:18.324326
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 06:13:18.325357
+*******************************************************
+Started data logging at 2026-06-10 06:23:20.255457
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 06:23:20.257068
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 06:23:30.352964
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-10 06:23:40.367411
+Time left: 6 days 23 hours 59 minutes and 29 seconds
+
+Recording sample number 4 on 2026-06-10 06:23:50.379893
+Time left: 6 days 23 hours 59 minutes and 19 seconds
+
+Recording sample number 5 on 2026-06-10 06:24:00.478026
+Time left: 6 days 23 hours 59 minutes and 9 seconds
+
+Recording sample number 6 on 2026-06-10 06:24:10.492149
+Time left: 6 days 23 hours 58 minutes and 59 seconds
+
+Recording sample number 7 on 2026-06-10 06:24:20.504792
+Time left: 6 days 23 hours 58 minutes and 49 seconds
+
+Recording sample number 8 on 2026-06-10 06:24:30.519729
+Time left: 6 days 23 hours 58 minutes and 39 seconds
+
+Recording sample number 9 on 2026-06-10 06:24:40.534577
+Time left: 6 days 23 hours 58 minutes and 29 seconds
+
+Recording sample number 10 on 2026-06-10 06:24:50.544150
+Time left: 6 days 23 hours 58 minutes and 19 seconds
+
+Recording sample number 11 on 2026-06-10 06:25:00.553676
+Time left: 6 days 23 hours 58 minutes and 9 seconds
+
+Recording sample number 12 on 2026-06-10 06:25:10.569206
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-10 06:25:20.668306
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-10 06:25:30.678398
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-10 06:25:40.690245
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-10 06:25:50.791033
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-10 06:26:00.891339
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-10 06:26:10.906673
+*******************************************************
+Started data logging at 2026-06-10 11:41:40.632595
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-10 11:41:40.636772
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-10 11:41:50.838060
+Time left: 6 days 23 hours 59 minutes and 38 seconds
+
+Recording sample number 3 on 2026-06-10 11:42:00.851846
+Time left: 6 days 23 hours 59 minutes and 28 seconds
+
+Recording sample number 4 on 2026-06-10 11:42:10.865215
+Time left: 6 days 23 hours 59 minutes and 18 seconds
+
+Recording sample number 5 on 2026-06-10 11:42:20.876358
+*******************************************************
+Started data logging at 2026-06-11 09:33:47.504924
+
+Total number of samples to be recorded: 60480
+
+Recording sample number 1 on 2026-06-11 09:33:47.509105
+Time left: 6 days 23 hours 59 minutes and 49 seconds
+
+Recording sample number 2 on 2026-06-11 09:33:57.711351
+Time left: 6 days 23 hours 59 minutes and 39 seconds
+
+Recording sample number 3 on 2026-06-11 09:34:07.725372
+Time left: 6 days 23 hours 59 minutes and 28 seconds
+
+Recording sample number 4 on 2026-06-11 09:34:17.736552
+Time left: 6 days 23 hours 59 minutes and 18 seconds
+
+Recording sample number 5 on 2026-06-11 09:34:27.749131
+Time left: 6 days 23 hours 59 minutes and 8 seconds
+
+Recording sample number 6 on 2026-06-11 09:34:37.767197
+Time left: 6 days 23 hours 58 minutes and 58 seconds
+
+Recording sample number 7 on 2026-06-11 09:34:47.781558
+Time left: 6 days 23 hours 58 minutes and 48 seconds
+
+Recording sample number 8 on 2026-06-11 09:34:57.791840
+Time left: 6 days 23 hours 58 minutes and 38 seconds
+
+Recording sample number 9 on 2026-06-11 09:35:07.807438
+Time left: 6 days 23 hours 58 minutes and 28 seconds
+
+Recording sample number 10 on 2026-06-11 09:35:17.819927
+Time left: 6 days 23 hours 58 minutes and 18 seconds
+
+Recording sample number 11 on 2026-06-11 09:35:27.829096
+Time left: 6 days 23 hours 58 minutes and 8 seconds
+
+Recording sample number 12 on 2026-06-11 09:35:37.839569
+Time left: 6 days 23 hours 57 minutes and 58 seconds
+
+Recording sample number 13 on 2026-06-11 09:35:47.854345
+Time left: 6 days 23 hours 57 minutes and 48 seconds
+
+Recording sample number 14 on 2026-06-11 09:35:57.866777
+Time left: 6 days 23 hours 57 minutes and 38 seconds
+
+Recording sample number 15 on 2026-06-11 09:36:07.881126
+Time left: 6 days 23 hours 57 minutes and 28 seconds
+
+Recording sample number 16 on 2026-06-11 09:36:17.893617
+Time left: 6 days 23 hours 57 minutes and 18 seconds
+
+Recording sample number 17 on 2026-06-11 09:36:27.905552
+Time left: 6 days 23 hours 57 minutes and 8 seconds
+
+Recording sample number 18 on 2026-06-11 09:36:37.916181

@@ -8,6 +8,7 @@ from utils.estimate import estimate_rainfall, load_estimate_model
 from utils.connectivity import send_data_via_internet, send_data_via_lorawan
 from plugins.battery_monitor import setup_serial_connection, preprocess_dataframe
 from plugins.moisture_sensor import read_moisture_sensor
+from davis_raingauge import setup_davis, get_davis_rainfall
 from utils.helper import (
     time_stamp_fnamer,
     load_config,
@@ -62,15 +63,16 @@ def write_rain_data_to_csv(result_data, log_dir, rain_log_filename):
     result_df.to_csv(path.join(log_dir, rain_log_filename), index=False)
 
 
-def send_data(config, mm_hat, solar_V, battery_V, solar_I, battery_I):
+def send_data(config, mm_hat,davis_rain,solar_V, battery_V, solar_I, battery_I):
     if config["communication"] == "LORAWAN":
-        send_data_via_lorawan(mm_hat, solar_V, battery_V, solar_I, battery_I)
+        send_data_via_lorawan(mm_hat,davis_rain,solar_V, battery_V, solar_I, battery_I)
     else:
-        send_data_via_internet(mm_hat, solar_V, battery_V, solar_I, battery_I)
+        send_data_via_internet(mm_hat,davis_rain,solar_V, battery_V, solar_I, battery_I)
 
 
 def main():
     config = load_config("config.yaml")
+    setup_davis(config["davis_interrupt_pin"])
     db_counter, rain = 0, 0
     DB_write_interval = config["DB_writing_interval_min"]
     num_subsamples = config["infer_inetrval_sec"] // config["sample_duration_sec"]
@@ -78,7 +80,7 @@ def main():
     field_deployed = config["field_deployed"]
     end_time = datetime.now() + timedelta(hours=record_hours)
     min_threshold = config["min_threshold"]
-    moisture_threshold = config["moisture_threshold"]
+    #moisture_threshold = config["moisture_threshold"]
     infer_model_path = path.join(config["infer_model_dir"],config["infer_model_name"])
     infer_model = load_estimate_model(infer_model_path)
     # serial commuication setup for battery monitoring
@@ -106,8 +108,9 @@ def main():
 
                 if i % num_subsamples == 0: # if (infer_inetrval // wav_duration) no of audio subsamples are collected
                     mm_hat = estimate_rainfall(infer_model, locations) # estimating rainfall
+                    davis_rain = get_davis_rainfall()
                     print("Estimated rainfall: ", mm_hat)
-
+                    print("Davis Rain:", davis_rain)          
                     files_and_directories = listdir(config["data_dir"])
                     files_to_delete = [
                         path.join(config["data_dir"], f)
@@ -122,18 +125,17 @@ def main():
                     db_counter += 1
 
                     # reading moisture sensor
-                    moisture = read_moisture_sensor(channel=0, gain=1)
+                    #moisture = read_moisture_sensor(channel=0, gain=1)
 
                     # reading battery parameters
-                    # solar_V, battery_V, solar_I, battery_I = 17.2, 15.2, 1.5, 2.2
+                    #solar_V, battery_V, solar_I, battery_I = 17.2, 15.2, 1.5, 2.2
                     solar_V, battery_V, solar_I, battery_I = (preprocess_dataframe(ser))
 
                     # sending data to DB
                     if db_counter == DB_write_interval:
-                        if moisture and moisture < moisture_threshold and rain >= min_threshold:
-                            send_data(config, mm_hat, solar_V, battery_V, solar_I, battery_I)
-                        else:
-                            send_data(config, 0.0, solar_V, battery_V, solar_I, battery_I)
+                            send_data(config, mm_hat,davis_rain, solar_V, battery_V, solar_I, battery_I)
+                    else:
+                        send_data(config, 0.0,0.0, solar_V, battery_V, solar_I, battery_I)
                         rain, db_counter = 0, 0
                 i += 1
 
@@ -161,13 +163,14 @@ def main():
                 if i % num_subsamples == 0: # estimating rainfall
                     mm_hat = estimate_rainfall(infer_model, locations)
                     # logger.info("Estimated rainfall: ", mm_hat)
+                    davis_rain = get_davis_rainfall()
                     locations.clear()
-                    moisture = read_moisture_sensor(channel=0, gain=1) # reading moisture sensor
+                    #moisture = read_moisture_sensor(channel=0, # reading moisture sensor
                     result_data.append(
                         {
                             "time_stamp": dt_now,
                             "rainfall_estimate": mm_hat,
-                            "moisture": moisture,
+                            #"moisture": moisture,
                         }
                     )
                     write_rain_data_to_csv(
@@ -177,17 +180,16 @@ def main():
                     db_counter += 1
 
                     # reading battery parameters
-                    # solar_V, battery_V, solar_I, battery_I = 17.2, 15.2, 1.5, 2.2
+                    #solar_V, battery_V, solar_I, battery_I = 17.2, 15.2, 1.5, 2.2
                     solar_V, battery_V, solar_I, battery_I = (preprocess_dataframe(ser))
                     
                     # sending data to DB
                     if db_counter == DB_write_interval:
-                        if moisture and moisture < moisture_threshold and rain >= min_threshold:
-                            send_data(config, mm_hat, solar_V, battery_V, solar_I, battery_I)
+                        if rain >= min_threshold:
+                            send_data(config, mm_hat,davis_rain, solar_V, battery_V, solar_I, battery_I)
 
                         else:
-                            send_data(config, 0.0, solar_V, battery_V, solar_I, battery_I)
-                        rain, db_counter = 0, 0
+                           send_data(config, 0.0,0.0, solar_V, battery_V, solar_I, battery_I)
                 log_time_remaining(logger, end_time)
             logger.info(f"Finished data logging at {datetime.now()}\n")
 
