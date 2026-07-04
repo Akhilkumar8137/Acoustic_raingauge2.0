@@ -93,6 +93,7 @@ sudo reboot
 3. [Manu Mohan M S](https://github.com/MMS731)
 4. [Aiswarya Babu](https://github.com/aiswaryaaishh)
 5. [Harikrishnan K P](https://github.com/harikrishnan-kp)
+6. [Akhil Kumar A R](https://github.com/Akhilkumar8137)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/cksajil/rainfall_monitor/gitlab/LICENSE) file for details.
