@@ -80,6 +80,12 @@ sudo reboot
 | 25     | LSTM  | MFCC     | 96.53% | 0.3418 | 0.4469      |
 
 **Table 1:** Performance of LSTM model on various features
+## Enhancements & Contributions
+
+- Integrated the **Davis Rain Gauge** with the Acoustic Rain Gauge for reference rainfall measurement.
+- Modified the system to transmit rainfall data directly to **ChirpStack** over LoRaWAN in real time.
+- Eliminated local storage on the Raspberry Pi, making it an efficient edge device for data acquisition, processing, and transmission.
+- Optimized the software for continuous and reliable field deployment.
 
 ## Team Members
 1. [Gopika T G](https://github.com/GopikaTG)
