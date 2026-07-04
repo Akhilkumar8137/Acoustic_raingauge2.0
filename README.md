@@ -3,9 +3,9 @@
 
 ## Introduction
 Rainfall, also known as precipitation, is crucial for environmental stability. Accurate precipitation monitoring is vital for weather forecasting and creating early flood warning systems. In this project we have developed an acoustic rain gauge that estimates rainfall by using sound as input data.
-
-![Experiment Setup](images/Raingauge-setup.jpg)
-
+<p align="center">
+  <img src="images/Raingauge-setup.jpg" alt="Experiment Setup" width="700">
+</p>
 **Figure 1:** Experiment setup
 
 ## Installation and Setup
