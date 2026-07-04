@@ -4,7 +4,7 @@
 ## Introduction
 Rainfall, also known as precipitation, is crucial for environmental stability. Accurate precipitation monitoring is vital for weather forecasting and creating early flood warning systems. In this project we have developed an acoustic rain gauge that estimates rainfall by using sound as input data.
 
-![Experiment Setup](https://raw.githubusercontent.com/cksajil/rainfall_monitor/gitlab/docs/images/Raingauge-setup.jpeg)
+![Experiment Setup](https://raw.githubusercontent.com/cksajil/rainfall_monitor/gitlab/images/Raingauge-setup.jpg)
 
 **Figure 1:** Experiment setup
 
